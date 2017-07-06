@@ -1,0 +1,6 @@
+[submodule "pgp"]
+	path = pgp
+	url = https://github.com/isysd/keys-pgp.git
+[submodule "ssh"]
+	path = ssh
+	url = https://github.com/isysd/keys-ssh.git
